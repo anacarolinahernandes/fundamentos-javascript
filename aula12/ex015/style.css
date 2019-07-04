@@ -1,0 +1,42 @@
+body {
+    background: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363)
+}
+
+.button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 16px;
+}
+
+#res {
+    text-align: center;
+}
+
+img {
+    padding: 8px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic
+}
